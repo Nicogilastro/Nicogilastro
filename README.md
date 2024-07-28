@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on some projects
-🌱 I’m currently learning Nuxt.JS & TypeScript
-📫 How to reach me ❎ @NLauretis
+- 🔭 I’m currently working on some projects
+- 🌱 I’m currently learning Nuxt.JS & TypeScript
+- 📫 How to reach me ❎ @NLauretis
